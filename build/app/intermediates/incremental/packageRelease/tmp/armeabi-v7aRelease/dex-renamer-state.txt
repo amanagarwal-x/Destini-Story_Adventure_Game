@@ -1,0 +1,4 @@
+#Wed May 27 19:55:03 IST 2020
+base.0=/home/ragehelix/Documents/SY/flutter_projects/destini-challenge-starting/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
