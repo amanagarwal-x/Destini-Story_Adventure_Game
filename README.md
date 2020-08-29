@@ -3,7 +3,7 @@ A basic "choose your own Adventure Story" Android Game based on Flutter with a s
 
 <p align="center">
   <img src="https://github.com/amanagarwal-x/Destini-Story_Adventure_Game/blob/master/Screenshot_1.png" width="300"/>
-  <img src="https://github.com/amanagarwal-x/Destini-Story_Adventure_Game/blob/master/Screenshot_2.png" width="300"/>
+  ...
   <img src="https://github.com/amanagarwal-x/Destini-Story_Adventure_Game/blob/master/Screenshot_3.png" width="300"/>
 </p>
 
